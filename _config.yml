@@ -17,7 +17,7 @@ author:  # change following line to your infomation.
   avatar:   # upload your avatar at directory and edit it.
   github_username: agohil45  # Leave blank if you don't have now
   linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: Avani Gohil  # Leave blank if you don't have now
+  facebook_username: avani.gohil  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: agohil0405@gmail.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am a junior undergraduate honors student at Rutgers University majoring in Public Health and minoring in Economics and Biological Sciences. I have an interest in public health research, specifically maternal health and chronic disease prevention. I am also the Leadership Vice President of Alpha Phi Omega, one of the largest co-ed professional service fraternities on campus. In my free time, I like to bike, go on nature hikes, dance, and research fashion history. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
